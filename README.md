@@ -27,8 +27,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="MySQL" height="45px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg
-" />
+   <img align="center" alt="Oracle" height="45px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Docker" height="45px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
