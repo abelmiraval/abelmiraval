@@ -41,7 +41,7 @@
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/abelmiraval" target="_blank">
+  <a href="https://www.linkedin.com/in/abel-miraval" target="_blank">
     <img
         align="center"
         src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
