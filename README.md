@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋</h1>
-<div align="center">Mi name is <b><i>Abel Miraval</i></b>, I'm a Backend Developer. </div>
+<div align="center">Mi name is <b><i>Abel Miraval</i></b>, I'm a Software Engineer. </div>
 
 <h3 align="center">Programming Languages:</h3>
 <div align="center" width="100%">
